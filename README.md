@@ -7,7 +7,6 @@ A project to simulate a assistant controlled by speech recognition. Was develope
 - Conversation contexts
 - Semantic and sintatics meanings
 - Text interpretation
-- Sentiment analysis
 
 
 ---
